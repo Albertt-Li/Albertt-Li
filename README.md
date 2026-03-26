@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Albertt-Li/Albertt-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋 I'm Xinghan (Albert)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Master of Business Analytics @ University of Auckland  
+📊 Data Analyst | SQL | Python | PowerBI  
+
+## 🚀 Projects
+- Maritime SAR analysis (Satellite data)
+- Customer segmentation (SPSS clustering)
+- BI dashboards for business insights  
+
+## 🛠 Skills
+- SQL / Python / Excel / PowerBI  
+- Data Analysis & Visualization  
+
+## 📫 Contact
+- Email: xinghan.li@qq.com
+- LinkedIn: https://www.linkedin.com/in/albert-li-bb8a90225/
